@@ -52,7 +52,7 @@ __Desenvolvedor Java - Novembro 2012 a Maio 2013 | Alocação Apoio Mineiro - El
 <li>Análise e desenvolvimento de sistemas, utilizando Adobe Flex como solução de front-end e Java como back-end</li>
 <li>Consultas em banco de dados (SQL Server - Oracle)</li>
 <li>Criação de relatórios (Ireport)</li>
-<ul>
+</ul>
 
 __Arcadian Tecnologia__
 __Estagiário de Desenvolvimento – Novembro 2011 a Novembro 2012__
@@ -61,4 +61,4 @@ __Estagiário de Desenvolvimento – Novembro 2011 a Novembro 2012__
 <li>Consultas em banco de dados (SQL Server - Oracle)</li>
 <li>Criação de relatórios (MSSQL)</li>
 <li>Auxiliar a equipe de teste. </li>
-<ul>
+</ul>
