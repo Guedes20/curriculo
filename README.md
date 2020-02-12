@@ -1,5 +1,5 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
-<h5>Estado Civil:</h5> Divorciado
+__Estado__ Civil: Divorciado
 <h5>Endereço:</h5> Dr. Henrique F. G. de Andrade, 81 – Vila Íris – Santa Luzia / MG
 <h5>Celular:</h5> (31) 99338-8575
 <h5>E-mail:</h5> fernandoguedes20@gmail.com
