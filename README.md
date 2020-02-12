@@ -61,6 +61,7 @@ __Desenvolvedor Java - Maio 2013 a Julho 2017 | Alocação Secretaria de Estado 
 <li>Criação e manutenção de componentes para o framework (UniFW)</li>
 <li>Manutenção e criação de serviços web utilizado SOAP, JAX-WS</li>
 </ul>
+
 __Armx Solution__
 __Desenvolvedor Java - Novembro 2012 a Maio 2013 | Alocação Apoio Mineiro - Elmo Calçados__
 <ul>
