@@ -1,13 +1,17 @@
 
 <table>
+  <thead>
   <tr>
     <th>Month</th>
     <th>Savings</th>
   </tr>
+    </thead>
+  <tbody>
   <tr>
     <td>January</td>
     <td>$100</td>
   </tr>
+    </tbody>
 </table>
 
 
