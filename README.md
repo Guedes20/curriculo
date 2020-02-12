@@ -1,10 +1,10 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
-_Estado Civil:_ Divorciado
-Endereço: Dr. Henrique F. G. de Andrade, 81 – Vila Íris – Santa Luzia / MG
-Celular:(31) 99338-8575
-E-mail: fernandoguedes20@gmail.com
-Linkedin: https://www.linkedin.com/in/fernando-guedes-11ab2320/
-GitHub: https://github.com/Guedes20
+__Estado Civil:__ Divorciado
+__Endereço:__ Dr. Henrique F. G. de Andrade, 81 – Vila Íris – Santa Luzia / MG
+__Celular:__(31) 99338-8575
+__E-mail:__ fernandoguedes20@gmail.com
+__Linkedin:__ https://www.linkedin.com/in/fernando-guedes-11ab2320/
+__GitHub:__ https://github.com/Guedes20
 
 Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
 desenvolvimento de software há 9 anos. Possuo facilidade de aprendizagem. Considero-me uma pessoa dinâmica,
@@ -18,7 +18,8 @@ posteriormente ocupar um cargo que exija metas ousadas, dedicação pessoal e co
 Objetivo Pessoal: Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
 diárias aumentando a produtividade pessoal e da equipe.
 
-Conhecimentos:
+
+__Conhecimentos:__
 Java, Android, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, Oracle, SQL SERVER,
 MSQL SERVER, REST, SOAP, JAX-RS, AXIS-WS e JAX-WS.
 Formação Acadêmica:
