@@ -31,11 +31,12 @@ __Experiência Profissional:__
 
 __Stefanini Solutions__
 __Desenvolvedor Java - Julho 2017 - Atuando | Alocação Secretaria de Estado da Fazenda - MG__
-*Análise e desenvolvimento de sistemas
-*Consultas em banco de dados (Oracle)
-*Criação e manutenção de componentes para o framework (UniFW)
-*Manutenção e criação de serviços web utilizado SOAP, JAX-WS
-
+<ul>
+<li>*Análise e desenvolvimento de sistemas</li>
+<li>*Consultas em banco de dados (Oracle)</li>
+<li>*Criação e manutenção de componentes para o framework (UniFW)</li>
+<li>*Manutenção e criação de serviços web utilizado SOAP, JAX-WS</li>
+<ul>
 __Indra Brasil__
 __Desenvolvedor Java - Maio 2013 a Julho 2017 | Alocação Secretaria de Estado da Fazenda - MG__
 *Análise e desenvolvimento de sistemas
