@@ -1,12 +1,16 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
 Estado Civil: Divorciado
+
 Endereço: Dr. Henrique F. G. de Andrade, 81 – Vila Íris – Santa Luzia / MG
+
 Celular: (31) 99338-8575
+
 E-mail: fernandoguedes20@gmail.com
+
 Linkedin: https://www.linkedin.com/in/fernando-guedes-11ab2320/
+
 GitHub: https://github.com/Guedes20
 
-<br/>
 Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
 desenvolvimento de software há 9 anos. Possuo facilidade de aprendizagem. Considero-me uma pessoa dinâmica,
 reservada, discreta e educada. Procuro sempre entender as necessidades que as tarefas me exigem e sei lidar de
@@ -29,26 +33,30 @@ Bacharel em Sist.de Informação - Faculdade de Santa Luzia (Facsal) – Conclu�
 Técnico em Informática - Colégio Técnico de Aplicações (Facsal) - Concluído Jun/2006
 
 __Experiência Profissional:__
-Stefanini Solutions
+
+__Stefanini Solutions__
 Desenvolvedor Java - Julho 2017 - Atuando | Alocação Secretaria de Estado da Fazenda - MG
-Análise e desenvolvimento de sistemas
-Consultas em banco de dados (Oracle)
-Criação e manutenção de componentes para o framework (UniFW)
-Manutenção e criação de serviços web utilizado SOAP, JAX-WS
-Indra Brasil
+*Análise e desenvolvimento de sistemas
+*Consultas em banco de dados (Oracle)
+*Criação e manutenção de componentes para o framework (UniFW)
+*Manutenção e criação de serviços web utilizado SOAP, JAX-WS
+
+__Indra Brasil__
 Desenvolvedor Java - Maio 2013 a Julho 2017 | Alocação Secretaria de Estado da Fazenda - MG
-Análise e desenvolvimento de sistemas
-Consultas em banco de dados (Oracle)
-Criação e manutenção de componentes para o framework (UniFW)
-Manutenção e criação de serviços web utilizado SOAP, JAX-WS
-Armx Solution
+*Análise e desenvolvimento de sistemas
+*Consultas em banco de dados (Oracle)
+*Criação e manutenção de componentes para o framework (UniFW)
+*Manutenção e criação de serviços web utilizado SOAP, JAX-WS
+
+__Armx Solution__
 Desenvolvedor Java - Novembro 2012 a Maio 2013 | Alocação Apoio Mineiro - Elmo Calçados
-Análise e desenvolvimento de sistemas, utilizando Adobe Flex como solução de front-end e Java como back-end
-Consultas em banco de dados (SQL Server - Oracle)
-Criação de relatórios (Ireport)
-Arcadian Tecnologia
+*Análise e desenvolvimento de sistemas, utilizando Adobe Flex como solução de front-end e Java como back-end
+*Consultas em banco de dados (SQL Server - Oracle)
+*Criação de relatórios (Ireport)
+
+__Arcadian Tecnologia__
 Estagiário de Desenvolvimento – Novembro 2011 a Novembro 2012
-Desenvolvimento e manutenção em sistemas interno (Java)
-Consultas em banco de dados (SQL Server - Oracle)
-Criação de relatórios (MSSQL)
-Auxiliar a equipe de teste. 
+*Desenvolvimento e manutenção em sistemas interno (Java)
+*Consultas em banco de dados (SQL Server - Oracle)
+*Criação de relatórios (MSSQL)
+*Auxiliar a equipe de teste. 
