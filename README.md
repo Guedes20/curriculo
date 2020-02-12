@@ -26,8 +26,10 @@ Java, Android, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, Oracle, S
 MSQL SERVER, REST, SOAP, JAX-RS, AXIS-WS e JAX-WS.
 
 __Formação Acadêmica:__
-Bacharel em Sist.de Informação - Faculdade de Santa Luzia (Facsal) – Concluído ago/2011
-Técnico em Informática - Colégio Técnico de Aplicações (Facsal) - Concluído Jun/2006
+<ul>
+<li>Bacharel em Sist.de Informação - Faculdade de Santa Luzia (Facsal) – Concluído ago/2011 </li>
+<li>Técnico em Informática - Colégio Técnico de Aplicações (Facsal) - Concluído Jun/2006</li>
+</ul>
 
 __Experiência Profissional:__
 
