@@ -1,8 +1,6 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
 
-__Estado Civil:__  Divorciado 
-
-__Endereço:__ Dr. Henrique 810 – Vila Olga – Santa Luzia / MG 
+ Brasileiro,Divorciado, Sem filhos.  
 
 __Celular:__ (31) 99338-8575
 
