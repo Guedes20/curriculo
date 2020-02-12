@@ -1,6 +1,6 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
 
- Brasileiro,Divorciado, Sem filhos.  
+ Brasileiro, Divorciado, Sem filhos.  
 
 __Celular:__ (31) 99338-8575
 
