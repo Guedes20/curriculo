@@ -32,27 +32,33 @@ __Experiência Profissional:__
 __Stefanini Solutions__
 __Desenvolvedor Java - Julho 2017 - Atuando | Alocação Secretaria de Estado da Fazenda - MG__
 <ul>
-<li>*Análise e desenvolvimento de sistemas</li>
-<li>*Consultas em banco de dados (Oracle)</li>
-<li>*Criação e manutenção de componentes para o framework (UniFW)</li>
-<li>*Manutenção e criação de serviços web utilizado SOAP, JAX-WS</li>
-<ul>
+<li>Análise e desenvolvimento de sistemas</li>
+<li>Consultas em banco de dados (Oracle)</li>
+<li>Criação e manutenção de componentes para o framework (UniFW)</li>
+<li>Manutenção e criação de serviços web utilizado SOAP, JAX-WS</li>
+</ul>
+
 __Indra Brasil__
 __Desenvolvedor Java - Maio 2013 a Julho 2017 | Alocação Secretaria de Estado da Fazenda - MG__
-*Análise e desenvolvimento de sistemas
-*Consultas em banco de dados (Oracle)
-*Criação e manutenção de componentes para o framework (UniFW)
-*Manutenção e criação de serviços web utilizado SOAP, JAX-WS
-
+<ul>
+<li>Análise e desenvolvimento de sistemas</li>
+<li>Consultas em banco de dados (Oracle)</li>
+<li>Criação e manutenção de componentes para o framework (UniFW)</li>
+<li>Manutenção e criação de serviços web utilizado SOAP, JAX-WS</li>
+</ul>
 __Armx Solution__
 __Desenvolvedor Java - Novembro 2012 a Maio 2013 | Alocação Apoio Mineiro - Elmo Calçados__
-*Análise e desenvolvimento de sistemas, utilizando Adobe Flex como solução de front-end e Java como back-end
-*Consultas em banco de dados (SQL Server - Oracle)
-*Criação de relatórios (Ireport)
+<ul>
+<li>Análise e desenvolvimento de sistemas, utilizando Adobe Flex como solução de front-end e Java como back-end</li>
+<li>Consultas em banco de dados (SQL Server - Oracle)</li>
+<li>Criação de relatórios (Ireport)</li>
+<ul>
 
 __Arcadian Tecnologia__
 __Estagiário de Desenvolvimento – Novembro 2011 a Novembro 2012__
-*Desenvolvimento e manutenção em sistemas interno (Java)
-*Consultas em banco de dados (SQL Server - Oracle)
-*Criação de relatórios (MSSQL)
-*Auxiliar a equipe de teste. 
+<ul>
+<li>Desenvolvimento e manutenção em sistemas interno (Java)</li>
+<li>Consultas em banco de dados (SQL Server - Oracle)</li>
+<li>Criação de relatórios (MSSQL)</li>
+<li>Auxiliar a equipe de teste. </li>
+<ul>
