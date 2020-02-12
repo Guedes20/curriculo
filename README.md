@@ -1,5 +1,5 @@
 
-<table>
+<table border: 0>
   <thead>
   <tr>
     <th>Month</th>
