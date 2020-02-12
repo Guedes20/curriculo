@@ -1,14 +1,14 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
-Estado Civil:  Divorciado
-Endereço: Dr. Henrique 810 – Vila Olga – Santa Luzia / MG 
 
-Celular: (31) 99338-8575
-E-mail: fernandoguedes20@gmail.com
+__Estado Civil:__  Divorciado
+__Endereço:__ Dr. Henrique 810 – Vila Olga – Santa Luzia / MG 
+__Celular:__ (31) 99338-8575
+__E-mail:__ fernandoguedes20@gmail.com
 
-Linkedin: https://www.linkedin.com/in/fernando-guedes-11ab2320/
-GitHub: https://github.com/Guedes20
+__Linkedin:__ https://www.linkedin.com/in/fernando-guedes-11ab2320/
+__GitHub:__ https://github.com/Guedes20
 
-Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
+_Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
 desenvolvimento de software há 9 anos. Possuo facilidade de aprendizagem. Considero-me uma pessoa dinâmica,
 reservada, discreta e educada. Procuro sempre entender as necessidades que as tarefas me exigem e sei lidar de
 forma organizada com momentos de pressão caso existam ou se estabeleçam. Sou comprometido com metas
@@ -18,7 +18,7 @@ ordens dos meus superiores e evito conflitos, seja de qualquer natureza.
 Objetivo Profissional: Atuar na área de desenvolvimento de software e aprender o suficiente e necessário para
 posteriormente ocupar um cargo que exija metas ousadas, dedicação pessoal e constante atualização profissional.
 Objetivo Pessoal: Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
-diárias aumentando a produtividade pessoal e da equipe.
+diárias aumentando a produtividade pessoal e da equipe._
 
 
 __Conhecimentos:__
