@@ -34,7 +34,7 @@ Técnico em Informática - Colégio Técnico de Aplicações (Facsal) - Concluí
 
 __Experiência Profissional:__
 
-__Stefanini Solutions__
+#__Stefanini Solutions__
 Desenvolvedor Java - Julho 2017 - Atuando | Alocação Secretaria de Estado da Fazenda - MG
 *Análise e desenvolvimento de sistemas
 *Consultas em banco de dados (Oracle)
