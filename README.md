@@ -1,11 +1,15 @@
 <h1> FERNANDO GUEDES DE SOUZA</h1>
 
 __Estado Civil:__  Divorciado
+
 __Endereço:__ Dr. Henrique 810 – Vila Olga – Santa Luzia / MG 
+
 __Celular:__ (31) 99338-8575
+
 __E-mail:__ fernandoguedes20@gmail.com
 
 __Linkedin:__ https://www.linkedin.com/in/fernando-guedes-11ab2320/
+
 __GitHub:__ https://github.com/Guedes20
 
 _Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
