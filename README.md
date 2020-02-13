@@ -17,8 +17,10 @@ forma organizada com momentos de pressão caso existam ou se estabeleçam. Sou c
 pessoais e profissionais. Prezo pelo bem coletivo e um excelente ambiente ou local de trabalho. Consigo me
 relacionar com facilidade com as demais pessoas que fazem parte da equipe ou do ambiente de trabalho. Sei acatar
 ordens dos meus superiores e evito conflitos, seja de qualquer natureza.
+
 Objetivo Profissional: Atuar na área de desenvolvimento de software e aprender o suficiente e necessário para
 posteriormente ocupar um cargo que exija metas ousadas, dedicação pessoal e constante atualização profissional.
+
 Objetivo Pessoal: Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
 diárias aumentando a produtividade pessoal e da equipe._
 
