@@ -10,7 +10,7 @@ __Linkedin:__ https://www.linkedin.com/in/fernando-guedes-11ab2320/
 
 __GitHub:__ https://github.com/Guedes20
 
-_Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
+Bacharel em Sistema de Informação, formado pela Faculdade de Santa Luzia (Facsal), atuando com
 desenvolvimento de software há 9 anos. Possuo facilidade de aprendizagem. Considero-me uma pessoa dinâmica,
 reservada, discreta e educada. Procuro sempre entender as necessidades que as tarefas me exigem e sei lidar de
 forma organizada com momentos de pressão caso existam ou se estabeleçam. Sou comprometido com metas
@@ -22,7 +22,7 @@ __Objetivo Profissional:__ Atuar na área de desenvolvimento de software e apren
 posteriormente ocupar um cargo que exija metas ousadas, dedicação pessoal e constante atualização profissional.
 
 __Objetivo Pessoal:__ Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
-diárias aumentando a produtividade pessoal e da equipe._
+diárias aumentando a produtividade pessoal e da equipe.
 
 __Conhecimentos:__
 Java, Android, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, Oracle, SQL SERVER,
