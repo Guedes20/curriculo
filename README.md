@@ -18,12 +18,11 @@ pessoais e profissionais. Prezo pelo bem coletivo e um excelente ambiente ou loc
 relacionar com facilidade com as demais pessoas que fazem parte da equipe ou do ambiente de trabalho. Sei acatar
 ordens dos meus superiores e evito conflitos, seja de qualquer natureza.
 
-Objetivo Profissional: Atuar na área de desenvolvimento de software e aprender o suficiente e necessário para
+__Objetivo Profissional:__ Atuar na área de desenvolvimento de software e aprender o suficiente e necessário para
 posteriormente ocupar um cargo que exija metas ousadas, dedicação pessoal e constante atualização profissional.
 
-Objetivo Pessoal: Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
+__Objetivo Pessoal:__ Obter fluência em outros idiomas como inglês. Desenvolver habilidades que facilitem as tarefas
 diárias aumentando a produtividade pessoal e da equipe._
-
 
 __Conhecimentos:__
 Java, Android, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, Oracle, SQL SERVER,
