@@ -2,8 +2,6 @@
 
  Brasileiro, Divorciado, Sem filhos.  
 
-__Celular:__ (31) 99338-8575
-
 __E-mail:__ fernandoguedes20@gmail.com
 
 __Linkedin:__ https://www.linkedin.com/in/fernando-guedes-11ab2320/
