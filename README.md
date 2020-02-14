@@ -23,7 +23,7 @@ __Objetivo Pessoal:__ Obter fluência em outros idiomas como inglês. Desenvolve
 diárias aumentando a produtividade pessoal e da equipe.
 
 __Conhecimentos:__
-Java, Android, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, Oracle, SQL SERVER,
+Java, Nodejs, UML, JPA, EJB, Reflection, IReport, Servlets, JSP, JSF, React, Oracle, SQL SERVER,
 MSQL SERVER, REST, SOAP, JAX-RS, AXIS-WS e JAX-WS.
 
 __Formação Acadêmica:__
